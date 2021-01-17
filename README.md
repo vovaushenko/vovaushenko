@@ -8,5 +8,5 @@ Hey, I'm Vova 👋  and I am a scientist and huge fan of web-development. I real
 
 ## Skills and Experience
 * ⚛ React
-* Node
+* 🗃️ Node.js
 * 💻 HTML, CSS, JS

@@ -1,7 +1,7 @@
 <h2 align="center"> Hey<img src="https://diginess.ca/content/uploads/2020/02/waving_hand_sign_1024.gif" width="30px"> Pleased to meet you! I am Vova Ushenko.</h2>
 <p>I am a developer driven by quality of code and software. I continuously strive to improve myself and for opportunities to meaninfully contribute to the open source.</p>
 
-<h2 align="center">🛠️ My Tooblox: </h2>
+<h2 align="center">🛠️ My Toolbox: </h2>
 <div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript Logo" width="50" hieght="50" /> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Javascript Logo" width="50" hieght="50" /> 

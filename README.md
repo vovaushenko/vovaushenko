@@ -20,6 +20,11 @@
 
 <h2 align="center">📈 Github Stats</h2>
 <div align="center">
+
+  <a href="https://github.com/vovaushenko">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=vovaushenko" alt="Vova's GitHub Stats" />
+  </a>
+  
 <a href="https://github.com/vovaushenko">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vovaushenko&hide=html,css" alt="Vova's GitHub Stats" />
 </a>
